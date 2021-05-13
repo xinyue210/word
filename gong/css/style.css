@@ -70,7 +70,8 @@
 	top:-1.153846rem; left:0;
 }
 .box3 img{
-	margin:0 -0.846153rem 0 0.576923rem;
+	float:left;
+	margin-left: 0.212765rem;
 }
 .box4{
 	margin:0.961538rem 0 0 0.461538rem;
